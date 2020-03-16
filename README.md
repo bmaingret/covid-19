@@ -8,11 +8,15 @@ The date are shifted to have a day-0 for each country corresponding to the first
 
 These *start dates* are indicated in the legend for each graph.
 
-## Total cases 
+All the code is in the notebook of this repository.
+
+## Graphs as of 16/03/2020
+
+### Total cases 
 ![](./Total_cases.png)
 
-## Total deaths
+### Total deaths
 ![](./Total_deaths.png)
 
-## Morbidity (%of deaths per total cases)
+### Morbidity (%of deaths per total cases)
 ![](./Morbidity.png)
