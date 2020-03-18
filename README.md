@@ -8,7 +8,7 @@ The date are shifted to have a day-0 for each country corresponding to the first
 
 These *start dates* are indicated in the legend for each graph.
 
-All the code is in the notebook of this repository.
+All the code is in the notebook of this repository. [Run and Edit in Google Colab](https://colab.research.google.com/github/bmaingret/covid-19/blob/master/COVID-19.ipynb)
 
 ## Graphs as of 16/03/2020
 
