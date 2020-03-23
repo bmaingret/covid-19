@@ -10,7 +10,12 @@ These *start dates* are indicated in the legend for each graph.
 
 All the code is in the notebook of this repository. [Run and Edit in Google Colab](https://colab.research.google.com/github/bmaingret/covid-19/blob/master/COVID-19.ipynb)
 
-## Graphs as of 22/03/2020
+
+To-do:
+- [ ] Refactor plotting
+
+
+## Graphs as of 23/03/2020
 
 ### Total cases 
 ![](./Total_cases.png)
@@ -20,3 +25,9 @@ All the code is in the notebook of this repository. [Run and Edit in Google Cola
 
 ### Morbidity (%of deaths per total cases)
 ![](./Morbidity.png)
+
+### Total cases (linear y-axis)
+![](./Total_cases_lin.png)
+
+### Total deaths (linear y-axis)
+![](./Total_deaths_lin.png)
