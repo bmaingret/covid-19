@@ -15,7 +15,7 @@ To-do:
 - [ ] Refactor plotting
 
 
-## Graphs as of 23/03/2020
+## Graphs as of 24/03/2020
 
 ### Total cases 
 ![](./Total_cases.png)
