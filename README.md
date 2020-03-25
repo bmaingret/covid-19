@@ -1,10 +1,9 @@
 # COVID-19 - New case and death rate / Morbidity
 
-We use two data sources:
+We only use ECDC data source for now (c.f. [ourworldindata.org](https://ourworldindata.org/coronavirus#why-we-stopped-relying-on-data-from-the-world-health-organization)
 * [European Centre for Disease Prevention and Control (ECDC)](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
-* [Our World in Data (from WHO daily reports)](https://ourworldindata.org/coronavirus-source-data)
 
-The date are shifted to have a day-0 for each country corresponding to the first cases indicated in the ECDC dataset, since the data, especially for China, goes further back.
+The date are shifted to have a day-0 for each country corresponding to the first *x* cases indicated in the ECDC dataset.
 
 These *start dates* are indicated in the legend for each graph.
 
