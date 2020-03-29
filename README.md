@@ -9,11 +9,6 @@ These *start dates* are indicated in the legend for each graph.
 
 All the code is in the notebook of this repository. [Run and Edit in Google Colab](https://colab.research.google.com/github/bmaingret/covid-19/blob/master/COVID-19.ipynb)
 
-
-To-do:
-- [ ] Refactor plotting
-
-
 ## Graphs as of 29/03/2020
 
 ### Total cases 
